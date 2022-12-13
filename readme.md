@@ -1,4 +1,4 @@
-##Mosque Management Information System
+## Mosque Management Information System
 
 This is a mosque content management with online giving system upgraded on Lavarel Framework from V1.0 which was built in pure PHP codebase. Please see attached installation guide.
 
@@ -13,7 +13,7 @@ This is a mosque content management with online giving system upgraded on Lavare
 - composer
 - npm (optional)
 
-##Installation
+## Installation
 
 See the wiki for instructions
 
